@@ -1,0 +1,4 @@
+backups/*
+logs/*.log
+logs/cron_old.log
+restore_test/
